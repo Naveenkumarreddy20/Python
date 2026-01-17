@@ -1,0 +1,20 @@
+#sum of two numbers
+a=5
+b=2
+print(a+b)
+#subtraction of two numbers
+c=30
+d=10
+print("sub=",c-d)
+#mul of two numbers
+e=10
+f=10
+print("mul=",e*f)
+#div of two numbers
+g=10
+h=10
+print("div=",g/h)
+#module of two numbers
+print("module=",g%h)
+#pow of two numbers
+print(a**b)
